@@ -5,17 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.lxq</groupId>
-        <artifactId>lkei-club-subject</artifactId>
+        <artifactId>lkei-club-application</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>lkei-club-application</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>lkei-club-application-controller</module>
-        <module>lkei-club-application-job</module>
-        <module>lkei-club-application-mq</module>
-    </modules>
+    <artifactId>lkei-club-application-mq</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
