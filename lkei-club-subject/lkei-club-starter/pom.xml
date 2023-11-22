@@ -35,5 +35,10 @@
             <artifactId>lkei-club-application-controller</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>com.lxq</groupId>
+            <artifactId>lkei-club-infra</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
